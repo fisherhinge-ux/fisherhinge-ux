@@ -1,79 +1,89 @@
-🔴 Red Team / Offensive Security Engineer
+# 🔴 Red Team / Offensive Security Engineer
 
-I operate with a red team mindset: understand systems deeply, break assumptions, and exploit real-world weaknesses — not lab-only vulnerabilities.
+Breaking systems by understanding how they *actually* work.
 
-I have 2+ years of hands-on experience in Python development and full-stack engineering, which I actively use for:
+I focus on **offensive security**, attack-surface discovery, and exploitation driven by logic flaws — not tool spam or lab-only vulnerabilities.
 
-Building custom offensive tooling
+> 95% understanding the target. 5% execution.
 
-Automating reconnaissance and exploitation
+---
 
-Identifying logic flaws and misconfigurations beyond automated scanners
+## 🧠 Focus Areas
+- Web & API exploitation
+- Authentication & business logic flaws
+- Reconnaissance & attack-surface mapping
+- WAF & defense behavior analysis
+- Python-based red team tooling
 
-I hold the CEH certification, but my focus is practical exploitation and attacker thinking, not theory memorization.
+---
 
-My work revolves around:
+## 🚀 Featured Projects
 
-Web application attacks (auth flaws, logic bugs, API abuse)
+### 🔹 attack-surface-mapper
+Automated reconnaissance framework that maps domains, infrastructure, technologies, and potential attack paths.
 
-Network traffic analysis & protocol behavior
+**Focus:** Recon → context → exploitation planning  
+**Tech:** Python, Bash, DNS, HTTP analysis
 
-Red team tradecraft: recon → access → persistence → impact
+---
 
-Python-based automation for offensive security
+### 🔹 api-abuse-lab
+Practical research on API vulnerabilities including BOLA, token abuse, mass assignment, and rate-limit bypass.
 
-I don’t believe in “movie-style hacking.”
-95% is understanding the target. 5% is execution.
+**Focus:** Modern API attack surfaces  
+**Tech:** Python, Postman, Swagger/OpenAPI
 
-This GitHub is used to document:
+---
 
-Offensive security experiments
+### 🔹 waf-behavior-analysis
+Experimental framework to analyze WAF behavior against mutated payloads, headers, and protocol edge cases.
 
-Custom scripts & tooling
+**Focus:** Detection logic & bypass conditions  
+**Tech:** Python, HTTP mutation, response analysis
 
-Red team research and notes
+---
 
-Real attack-surface analysis
+## 🔬 Research & Notes
 
-💻 Tech Stack
-🧠 Languages & Scripting
+- API authorization failures in real-world apps
+- Authentication flow abuse patterns
+- WAF trust assumptions & header misuse
+- TCP/IP behavior from an attacker’s perspective
+- Recon mistakes that lead to missed compromise paths
 
-Python — offensive tooling, automation, exploit development
+> Notes are written from an attacker’s POV, not defensive theory.
 
-Bash — Linux automation, recon pipelines
+---
 
-TypeScript — understanding & attacking modern web applications
+## 🛠 Tech Stack
 
-🌐 Web & API Security
+### Languages & Scripting
+- Python
+- Bash
+- TypeScript
 
-Swagger / OpenAPI — API attack surface analysis
+### Web & API Security
+- Swagger / OpenAPI
+- Postman
 
-Postman — API testing, abuse scenarios, auth bypass testing
+### Databases (Attack Surface Knowledge)
+- MongoDB
+- MariaDB
 
-🛢 Databases (Attack Surface Knowledge)
+### AppSec & Dev Tooling
+- SonarQube
+- Prettier
 
-MongoDB
+### Infrastructure
+- OpenStack
 
-MariaDB
+### OS
+- Linux / Kali Linux
 
-🧩 Dev & AppSec Tooling
+---
 
-SonarQube — static analysis, security smells, weak patterns
+## ⚠️ Operating Principles
+- Tools don’t create impact — understanding does
+- Scanners find noise, attackers find logic
+- Every breach starts with a wrong assumption
 
-Prettier — readable code during audits & tooling development
-
-☁️ Infrastructure Awareness
-
-OpenStack — cloud & virtualization attack surfaces
-
-🐧 Operating Systems
-
-Linux / Kali Linux
-
-⚠️ Philosophy
-
-Tools don’t make attackers — thinking does
-
-Scanners find noise — humans find impact
-
-Every system fails where assumptions live
