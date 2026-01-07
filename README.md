@@ -1,21 +1,79 @@
-# 💫 About Me:
-I work in offensive cybersecurity with a red team mindset: understand the system, break the assumptions, and exploit real weaknesses — not lab-only vulnerabilities.<br><br>I have 2+ years of hands-on experience across Python development and full-stack engineering, which I actively use to:<br><br>Build custom attack tooling<br><br>Automate reconnaissance and exploitation<br><br>Analyze application logic flaws beyond scanners<br><br>I hold the CEH certification, but my focus is practical exploitation, not theory. I spend most of my time on:<br><br>Web application attacks (auth flaws, logic bugs, misconfigurations)<br><br>Network traffic analysis & protocol abuse<br><br>Red team tradecraft: recon → access → persistence → impact<br><br>Python-based tooling for offensive security<br><br>I don’t believe in “movie-style hacking.”<br>95% is understanding the target. 5% is execution.<br>That’s where real compromise happens.<br><br>📌 Tech stack<br><br>Python (automation, tooling, exploitation)<br><br>Full-stack knowledge (to break apps, not just build them)<br><br>Linux / Kali<br><br>Networking & TCP/IP analysis<br><br>Web security & WAF behavior analysis<br><br>This GitHub is used to document:<br><br>Offensive security experiments<br><br>Custom tools & scripts<br><br>Red team research notes<br><br>Real-world attack thinking
+🔴 Red Team / Offensive Security Engineer
 
+I operate with a red team mindset: understand systems deeply, break assumptions, and exploit real-world weaknesses — not lab-only vulnerabilities.
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hingefisher fisherhinge-ux &theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hingefisher fisherhinge-ux &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hingefisher fisherhinge-ux &theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I have 2+ years of hands-on experience in Python development and full-stack engineering, which I actively use for:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hingefisher fisherhinge-ux &theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Building custom offensive tooling
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hingefisher fisherhinge-ux &limit=5&theme=dark&combine_all_yearly_contributions=true)
+Automating reconnaissance and exploitation
 
----
-[![](https://visitcount.itsvg.in/api?id=hingefisher fisherhinge-ux &icon=0&color=0)](https://visitcount.itsvg.in)
+Identifying logic flaws and misconfigurations beyond automated scanners
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I hold the CEH certification, but my focus is practical exploitation and attacker thinking, not theory memorization.
+
+My work revolves around:
+
+Web application attacks (auth flaws, logic bugs, API abuse)
+
+Network traffic analysis & protocol behavior
+
+Red team tradecraft: recon → access → persistence → impact
+
+Python-based automation for offensive security
+
+I don’t believe in “movie-style hacking.”
+95% is understanding the target. 5% is execution.
+
+This GitHub is used to document:
+
+Offensive security experiments
+
+Custom scripts & tooling
+
+Red team research and notes
+
+Real attack-surface analysis
+
+💻 Tech Stack
+🧠 Languages & Scripting
+
+Python — offensive tooling, automation, exploit development
+
+Bash — Linux automation, recon pipelines
+
+TypeScript — understanding & attacking modern web applications
+
+🌐 Web & API Security
+
+Swagger / OpenAPI — API attack surface analysis
+
+Postman — API testing, abuse scenarios, auth bypass testing
+
+🛢 Databases (Attack Surface Knowledge)
+
+MongoDB
+
+MariaDB
+
+🧩 Dev & AppSec Tooling
+
+SonarQube — static analysis, security smells, weak patterns
+
+Prettier — readable code during audits & tooling development
+
+☁️ Infrastructure Awareness
+
+OpenStack — cloud & virtualization attack surfaces
+
+🐧 Operating Systems
+
+Linux / Kali Linux
+
+⚠️ Philosophy
+
+Tools don’t make attackers — thinking does
+
+Scanners find noise — humans find impact
+
+Every system fails where assumptions live
