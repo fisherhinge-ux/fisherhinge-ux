@@ -1,89 +1,57 @@
-# 🔴 Red Team / Offensive Security Engineer
+# Hi, I'm Hassan Afzal 👋
 
-Breaking systems by understanding how they *actually* work.
+### Cybersecurity | Penetration Testing | Security Research | Python
 
-I focus on **offensive security**, attack-surface discovery, and exploitation driven by logic flaws — not tool spam or lab-only vulnerabilities.
+I'm a cybersecurity-focused learner from **Lahore, Pakistan**, developing practical skills through hands-on labs, security testing, experimentation, and independent study.
 
-> 95% understanding the target. 5% execution.
+My focus is on understanding how systems, networks, web applications, and Active Directory environments work — and then applying that knowledge through controlled security testing and documentation.
 
----
-
-## 🧠 Focus Areas
-- Web & API exploitation
-- Authentication & business logic flaws
-- Reconnaissance & attack-surface mapping
-- WAF & defense behavior analysis
-- Python-based red team tooling
+I'm currently building this GitHub profile into a **practical cybersecurity portfolio** while preparing for internship and junior-level opportunities.
 
 ---
 
-## 🚀 Featured Projects
+## 🔐 What I Work With
 
-### 🔹 attack-surface-mapper
-Automated reconnaissance framework that maps domains, infrastructure, technologies, and potential attack paths.
+**Security & Pentesting**
 
-**Focus:** Recon → context → exploitation planning  
-**Tech:** Python, Bash, DNS, HTTP analysis
+* Reconnaissance & enumeration
+* Web application security testing
+* Authentication & authorization testing
+* Access-control testing
+* Vulnerability identification and validation
+* Burp Suite
+* Nmap
+* Metasploit
+* Wireshark
 
----
+**Active Directory**
 
-### 🔹 api-abuse-lab
-Practical research on API vulnerabilities including BOLA, token abuse, mass assignment, and rate-limit bypass.
+* Active Directory enumeration
+* LDAP
+* Kerberos
+* SPNs
+* Users, groups and permissions
+* ACL analysis
+* BloodHound
+* Privilege-escalation concepts
+* Delegation concepts
 
-**Focus:** Modern API attack surfaces  
-**Tech:** Python, Postman, Swagger/OpenAPI
+**Networking**
 
----
+* TCP/IP
+* DNS
+* DHCP
+* ARP
+* Routing & NAT
+* TCP three-way handshake
+* Packet analysis
+* HTTP / HTTPS
+* Wireshark
 
-### 🔹 waf-behavior-analysis
-Experimental framework to analyze WAF behavior against mutated payloads, headers, and protocol edge cases.
+**Programming**
 
-**Focus:** Detection logic & bypass conditions  
-**Tech:** Python, HTTP mutation, response analysis
-
----
-
-## 🔬 Research & Notes
-
-- API authorization failures in real-world apps
-- Authentication flow abuse patterns
-- WAF trust assumptions & header misuse
-- TCP/IP behavior from an attacker’s perspective
-- Recon mistakes that lead to missed compromise paths
-
-> Notes are written from an attacker’s POV, not defensive theory.
-
----
-
-## 🛠 Tech Stack
-
-### Languages & Scripting
-- Python
-- Bash
-- TypeScript
-
-### Web & API Security
-- Swagger / OpenAPI
-- Postman
-
-### Databases (Attack Surface Knowledge)
-- MongoDB
-- MariaDB
-
-### AppSec & Dev Tooling
-- SonarQube
-- Prettier
-
-### Infrastructure
-- OpenStack
-
-### OS
-- Linux / Kali Linux
-
----
-
-## ⚠️ Operating Principles
-- Tools don’t create impact — understanding does
-- Scanners find noise, attackers find logic
-- Every breach starts with a wrong assumption
-
+* Python
+* Security scripting
+* Automation
+* HTTP/API interaction
+* Network and data parsing
